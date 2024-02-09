@@ -1,0 +1,20 @@
+* { 
+   background-color: whitesmoke;
+}
+
+
+
+h1 {
+    font: "Arial";
+    font-weight: 700;
+    font-size: 36px;
+    text-align: center;
+   
+}
+
+.recipes { 
+    font: "Arial";
+    text-align: center;
+    font-size: 16px;
+
+}
